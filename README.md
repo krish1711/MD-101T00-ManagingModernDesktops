@@ -18,6 +18,8 @@
 
 - It will be recommended that for every delivery, trainers check GitHub for any changes that may have been made to support the latest Azure services, and get the latest files for their delivery.
 
+##Test Commit
+
 ## What about changes to the student handbook?
 
 - We will review the student handbook on a quarterly basis and update through the normal MOC release channels as needed.
