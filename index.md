@@ -2,7 +2,7 @@
 title: Online Hosted Instructions
 permalink: index.html
 layout: home
----
+----
 
 # Content Directory
 
